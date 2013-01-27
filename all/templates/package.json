@@ -1,7 +1,9 @@
 {
   "author": "",
-  "name": "",
+  "name": "myApp",
   "version": "0.0.0",
-  "dependencies": {},
+  "dependencies": {
+    "grunt-recess": "0.3.x"
+    },
   "devDependencies": {}
 }

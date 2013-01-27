@@ -33,6 +33,6 @@ Generator.prototype.fetchBootstrap = function fetchBootstrap() {
 Generator.prototype.endGenerator = function endGenerator() {
   console.log('');
   console.log('Looks like we\'re done!');
-  console.log('Just don\'t forget to run \"npm install grunt-recess\"');
+  console.log('Don\'t forget to install dependencies (grunt-recess) by running \"npm install\"');
   console.log('');
 }
